@@ -5,7 +5,7 @@ I am a  **full-stack** developer focused on the **Back-end**  with experience in
 **Contact**
 
  - My email: olmosjesusarmando@gmail.com
- - My phone: 04120529358
+ - My phone: +54 04120529358
  - My Instagram: codigoenlaweb
 
 **skills**
@@ -28,7 +28,7 @@ Soy un **Full-stack** developer enfocado al **Backend** con experiencia en el de
 
 -- Contacto --
 - Mi email: olmosjesusarmando@gmail.com
-- Mi telefono: 04120529358
+- Mi telefono: +54 04120529358
 - Mi Instagram: codigoenlaweb
 
 **skills**
