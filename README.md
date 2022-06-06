@@ -1,6 +1,6 @@
 ## English
 
-I am a  **full-stack** developer focused on the **Back-end**  with experience in web development. I seek to collaborate in different areas of a project, from developing **Restful API** to 100% dynamic web applications. I am interested in learning new technologies and languages that help me to grow as a developer and bring value to the enterprise.
+I am a **full-stack** developer focused on the **Back-end**  with experience in web development. I seek to collaborate in different areas of a project, from developing **Restful API** to 100% dynamic web applications. I am interested in learning new technologies and languages that help me to grow as a developer and bring value to the enterprise.
 
 **Contact**
 
